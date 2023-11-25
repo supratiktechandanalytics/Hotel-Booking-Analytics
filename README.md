@@ -139,12 +139,7 @@ We tried to answer following questions
  6.) While booking via TA/TO one may have to wait a little longer to confirm booking of rooms.
  7.) GDS channel brings higher revenue generating deals for City hotel, in contrast to that most bookings come via TA/TO. City Hotel can work to increase outreach on GDS channels to get more higher revenue generating deals.
  8.) TA/TO has highest booking cancellation %. Therefore, a booking via TA/TO is 30% likely to get cancelled.
- 9.) Longer lead time has no affect on cancellation of bookings.
- 10.) Not getting same room as demanded is not the case of cancellation of rooms. A significant percentage of bookings are not cancelled even after getting different room as demanded.
- 11.) Not getting same room do affects the adr, people who didn't got same room have paid a little lower adr. 
- 12.) Arrivals in hotels increases at weekends and also the avg adr tends to go up as month ends. 
- 13.)Moslty bookings are done by couples(bookings have two adults.)
-```
+ ```
 
 ## Conclusion
 
